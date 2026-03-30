@@ -14,7 +14,7 @@ AWS account and returns a plain-English summary of all running resources.
 
 ## Architecture
 
-![Architecture](docs/architecture.png)
+![Architecture](docs/architecture.svg)
 
 The agent uses the **ReAct loop** (Reason → Act → Observe → Reason):
 1. User asks a question in natural language
